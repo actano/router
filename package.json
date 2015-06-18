@@ -1,7 +1,21 @@
 {
   "name": "router",
+  "version": "1.0.2",
   "dependencies": {
-    "express": "~3.3.4",
-    "hbs": "~2.3.0"
+    "component-event": "*",
+    "link-delegate": "*",
+    "path-to-regexp": "*",
+    "component-querystring": "*",
+    "component-url": "*",
+    "actano-history": "git://github.com/actano/history",
+    "ware": "~0.3.0",
+    "component-indexof": "*"
+  },
+  "browser": {
+    "event": "component-event",
+    "querystring": "component-querystring",
+    "url": "component-url",
+    "history": "actano-history",
+    "indexof": "component/indexof"
   }
 }
