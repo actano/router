@@ -1,6 +1,7 @@
 {
-  "name": "router",
+  "name": "actano-router",
   "version": "1.0.2",
+  "main": "lib/index.js",
   "dependencies": {
     "component-event": "*",
     "link-delegate": "*",
