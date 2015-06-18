@@ -17,6 +17,6 @@
     "querystring": "component-querystring",
     "url": "component-url",
     "history": "actano-history",
-    "indexof": "component/indexof"
+    "indexof": "component-indexof"
   }
 }
